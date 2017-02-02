@@ -5,6 +5,7 @@
 //  Created by maruyamamotoki on 2017/01/19.
 //  Copyright © 2017年 山下亮. All rights reserved.
 //
+//　record module  sato takumi
 import UIKit
 import AVFoundation
 
